@@ -2,36 +2,6 @@ Investigación kernels
 
 08/10/2026 Alejandro Gómez
 
-Tabla de contenido
-
-[Introducción 2](#_Toc242382772)
-
-[Anticheats a nivel kernel 2](#_Toc242382773)
-
-[¿Qué es el kernel? 2](#_Toc242382774)
-
-[¿Qué son los rings? 2](#_Toc242382775)
-
-[¿Cómo funciona un anticheat a nivel de kernel? 2](#_Toc242382776)
-
-[Arquitectura de un anticheat en el kernel 3](#_Toc242382777)
-
-[Ejemplos de anticheats 4](#_Toc242382778)
-
-[Vanguard 4](#_Toc242382779)
-
-[Ricochet 4](#_Toc242382780)
-
-[Fallo de CrowdStrike Julio de 2024 5](#_Toc242382781)
-
-[Origen y Causas 5](#_Toc242382782)
-
-[Impactos técnicos 6](#_Toc242382783)
-
-[Solución 6](#_Toc242382784)
-
-[Referencias 7](#_Toc242382785)
-
 # Introducción
 
 Para la parte de investigación se pide:
